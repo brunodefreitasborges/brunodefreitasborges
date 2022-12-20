@@ -1,4 +1,4 @@
-### Olá! Sou o Bruno Borges - Desenvolvedor FullStack
+### Olá! Meu nome é Bruno e sou Desenvolvedor FullStack
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodefreitasborges&layout=compact&langs_count=7&theme=dracula"/>
 <div>
   <h3>Tech Stack:</h3>
