@@ -1,4 +1,4 @@
-### Olá! Meu nome é Bruno e sou Desenvolvedor FullStack
+### Hey there! My name is Bruno and i am a passionate software developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodefreitasborges&layout=compact&langs_count=7&theme=dracula"/>
 <div>
   <h3>Tech Stack:</h3>
